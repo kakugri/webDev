@@ -1,0 +1,26 @@
+.name {
+    padding: 10px;
+    text-align: center;
+}
+
+.introduction, .beliefs {
+    text-align: justify;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.backgroundpicture {
+    text-align: center;
+}
+
+#startGame {
+    /* background-color: rgb(198, 172, 223); */
+    width: 6%;
+    display: flex;
+    /* border: 2px solid slategray; */
+}
+
+a {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
